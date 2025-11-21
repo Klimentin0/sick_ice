@@ -4,7 +4,7 @@ import "fmt"
 
 import "rsc.io/quote"
 
-func transmit() {
+func Transmit() {
 	fmt.Println("test")
 	fmt.Println(quote.Go())
 }
